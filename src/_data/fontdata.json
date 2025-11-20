@@ -1,22 +1,22 @@
 [
 	{
-		"name": "STIX Two Text",
-		"selector": "stix-two-text",
+		"name": "Eidetic Neo",
+		"selector": "eidetic-neo",
 		"style": "Regular"
 	},
 	{
-		"name": "STIX Two Text Italic",
-		"selector": "stix-two-text-italic",
+		"name": "Eidetic Neo Italic",
+		"selector": "eidetic-neo-italic",
 		"style": "Italic"
 	},
 	{
-		"name": "STIX Two Text Bold",
-		"selector": "stix-two-text-bold",
+		"name": "Eidetic Neo Bold",
+		"selector": "eidetic-neo-bold",
 		"style": "Bold"
 	},
 	{
-		"name": "STIX Two Text Bold Italic",
-		"selector": "stix-two-text-bold-italic",
+		"name": "Eidetic Neo Bold Italic",
+		"selector": "eidetic-neo-bold-italic",
 		"style": "Bold Italic"
 	}
 ]

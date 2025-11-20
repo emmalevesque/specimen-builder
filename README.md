@@ -1,4 +1,4 @@
-<h1 align="center">Specimen Builder</h1>
+# Specimen Builder
 
 Specimen Builder is a quick and easy way to build digital type specimens. It uses [Specimen Skeleton](https://github.com/kabisa/specimen-skeleton) as a base and builds on top of it with a theme design and some configuration. Specimen Skeleton is built using [Eleventy](https://www.11ty.dev/)
 
